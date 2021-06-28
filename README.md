@@ -1,0 +1,2 @@
+# Object_motion_detection
+This is a an object motion detection project. It detect motion of everything that comes in the frame of the video. The video works on openCV module of python and here I have used various cv2 functions that comes under openCV to find the contour vectors in each and every frame and respectively determine the width and height for the rectangular frame that detects the object.
